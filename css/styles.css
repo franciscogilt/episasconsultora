@@ -11523,6 +11523,9 @@ header.masthead .masthead-heading {
 .portfolio-modal .modal-content img {
   margin-bottom: 2rem;
 }
+.portfolio-modal .modal-body img {
+  width: 300px;
+}
 .portfolio-modal .close-modal {
   position: absolute;
   top: 1.5rem;
